@@ -1,0 +1,4 @@
+c:\users\fatimo\documents\visual studio 2010\Projects\ControleAtletas\Atletas.DAL\bin\Debug\Atletas.DAL.dll
+c:\users\fatimo\documents\visual studio 2010\Projects\ControleAtletas\Atletas.DAL\bin\Debug\Atletas.DAL.pdb
+c:\users\fatimo\documents\visual studio 2010\Projects\ControleAtletas\Atletas.DAL\obj\Debug\Atletas.DAL.dll
+c:\users\fatimo\documents\visual studio 2010\Projects\ControleAtletas\Atletas.DAL\obj\Debug\Atletas.DAL.pdb

@@ -1,0 +1,9 @@
+c:\users\fatimo\documents\visual studio 2010\Projects\ControleAtletas\Atletas.BLL\bin\Debug\Atletas.BLL.dll
+c:\users\fatimo\documents\visual studio 2010\Projects\ControleAtletas\Atletas.BLL\bin\Debug\Atletas.BLL.pdb
+c:\users\fatimo\documents\visual studio 2010\Projects\ControleAtletas\Atletas.BLL\bin\Debug\Atletas.DAL.dll
+c:\users\fatimo\documents\visual studio 2010\Projects\ControleAtletas\Atletas.BLL\bin\Debug\Atletas.DTO.dll
+c:\users\fatimo\documents\visual studio 2010\Projects\ControleAtletas\Atletas.BLL\bin\Debug\Atletas.DAL.pdb
+c:\users\fatimo\documents\visual studio 2010\Projects\ControleAtletas\Atletas.BLL\bin\Debug\Atletas.DTO.pdb
+c:\users\fatimo\documents\visual studio 2010\Projects\ControleAtletas\Atletas.BLL\obj\Debug\Atletas.BLL.csprojResolveAssemblyReference.cache
+c:\users\fatimo\documents\visual studio 2010\Projects\ControleAtletas\Atletas.BLL\obj\Debug\Atletas.BLL.dll
+c:\users\fatimo\documents\visual studio 2010\Projects\ControleAtletas\Atletas.BLL\obj\Debug\Atletas.BLL.pdb

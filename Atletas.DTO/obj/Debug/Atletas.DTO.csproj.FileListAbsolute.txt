@@ -1,0 +1,4 @@
+c:\users\fatimo\documents\visual studio 2010\Projects\ControleAtletas\Atletas.DTO\bin\Debug\Atletas.DTO.dll
+c:\users\fatimo\documents\visual studio 2010\Projects\ControleAtletas\Atletas.DTO\bin\Debug\Atletas.DTO.pdb
+c:\users\fatimo\documents\visual studio 2010\Projects\ControleAtletas\Atletas.DTO\obj\Debug\Atletas.DTO.dll
+c:\users\fatimo\documents\visual studio 2010\Projects\ControleAtletas\Atletas.DTO\obj\Debug\Atletas.DTO.pdb

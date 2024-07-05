@@ -1,0 +1,4 @@
+c:\users\fatimo\documents\visual studio 2010\Projects\ControleAtletas\Atletas.WebUI\bin\Atletas.WebUI.dll
+c:\users\fatimo\documents\visual studio 2010\Projects\ControleAtletas\Atletas.WebUI\bin\Atletas.WebUI.pdb
+c:\users\fatimo\documents\visual studio 2010\Projects\ControleAtletas\Atletas.WebUI\obj\Debug\Atletas.WebUI.dll
+c:\users\fatimo\documents\visual studio 2010\Projects\ControleAtletas\Atletas.WebUI\obj\Debug\Atletas.WebUI.pdb
